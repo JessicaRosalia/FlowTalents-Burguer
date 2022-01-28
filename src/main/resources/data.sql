@@ -1,0 +1,2 @@
+INSERT INTO PRODUTO(nome, descricao, preco, categoria_id) VALUES('X-burguer','carne, pão e alface', '6.50', '1');
+INSERT INTO PRODUTO(nome, descricao, preco, categoria_id) VALUES('Coca-Cola','200ml', '7.0', '2');
